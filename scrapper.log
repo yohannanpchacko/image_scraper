@@ -1,0 +1,90 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.21:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:00:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:00:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:00:41] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name 'os' is not defined
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:00:44] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.21:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:name 'BeautifulSoup' is not defined
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:18] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:20] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name 'BeautifulSoup' is not defined
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:23] "POST /review HTTP/1.1" 200 -
+INFO:root:name 'BeautifulSoup' is not defined
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:23] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.21:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:52] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:52] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:57] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.9:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.20.10.9 - - [22/Feb/2023 11:24:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.9 - - [22/Feb/2023 11:24:04] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.9 - - [22/Feb/2023 11:24:04] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.9 - - [22/Feb/2023 11:24:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.20.10.9 - - [22/Feb/2023 11:24:16] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2023 14:06:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2023 14:06:12] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2023 14:06:12] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2023 14:06:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+ERROR:werkzeug:127.0.0.1 - - [11/Aug/2023 14:13:18] code 400, message Bad request version ('\x02h2\x08http/1.1\x00')
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2023 14:13:18] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03à\x9a\x08ä\x03'\x8e\x98Æïk\x1cÉO\x9b\x8d\x1dL»_Ì\x8cõbW\x9c;§\x0d\x01#Â â¼\x041ce\x09>\x03\x09i\x8dÌêÇF¿wM5R\x1a7Õn^æ\x97\x8e\x7fn \x00 zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x8a\x8a\x00\x00\x00\x12\x00\x00\x00#\x00\x00Di\x00\x05\x00\x03\x02h2\x00\x0b\x00\x02\x01\x00\x00-\x00\x02\x01\x01\x00\x1b\x00\x03\x02\x00\x02\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:127.0.0.1 - - [11/Aug/2023 14:13:18] code 400, message Bad request version ('\x02h2\x08http/1.1\x00-\x00\x02\x01\x01\x00')
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2023 14:13:18] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03µ:ÍH\x9cöð\x06Ééx(ë8ò6\x94o¸zÿt\x07AéÄ¥½ybSí ,:mgÚ \x0f\x01¸³ÐâÚVq#\x0cl\x9c|¿¸ðåÂqõ\x81l"¬Ç\x00 zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ZZ\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x0b\x00\x02\x01\x00\x003\x00+\x00)JJ\x00\x01\x00\x00\x1d\x00 =#\x8cmÈ_k[\x94*ê\x9f/ÀCÔÆ\x8d1q\x99\x09{ó7PRíóÒ\x02\x04\x00+\x00\x07\x06\x8a\x8a\x03\x04\x03\x03\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00-\x00\x02\x01\x01\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:127.0.0.1 - - [11/Aug/2023 14:13:18] code 400, message Bad request version ('\x00\x14\x00\x12\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x02\x01ÿ\x01\x00\x01\x00\x00+\x00\x07\x06**\x03\x04\x03\x03\x00')
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2023 14:13:18] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03gC-H\x06øû\x88\x1c=oW\x98\x03±\x9f\x8dÐ\x0daØ!\x06\x95^\x1b ù\x1a=\x80p 9\x04â\x00h²År»F·z\x12&\x02Ç»\x84&UA&c!ÿû\x99RGÙ.\x97\x00 êê\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ºº\x00\x00\x00\x0b\x00\x02\x01\x00\x00\x1b\x00\x03\x02\x00\x02\x00#\x00\x00\x003\x00+\x00)**\x00\x01\x00\x00\x1d\x00 ¼ý#-ù\x87·7¼÷¤ÓÐàAÖ©\x13\x1dý\x16²ò­\x04\x9a¶yþû£\x7f\x00\x12\x00\x00\x00-\x00\x02\x01\x01\x00\x0d\x00\x14\x00\x12\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x02\x01ÿ\x01\x00\x01\x00\x00+\x00\x07\x06**\x03\x04\x03\x03\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:127.0.0.1 - - [11/Aug/2023 14:13:18] code 400, message Bad request version ('\x00\x14\x00\x12\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x02\x01ÿ\x01\x00\x01\x00\x00')
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2023 14:13:18] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03õÆuw5çqg%¶\x82»ìW%#\x83,@YÖF;àë°\x01\x97\x98¬\x99\x00 ¹\x8eÐÇt*\x19øôy\x860\x88»Bjé?\x14\x18³z®Ló\x84Ê\x81C\x132b\x00 ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ªª\x00\x00\x003\x00+\x00)\x1a\x1a\x00\x01\x00\x00\x1d\x00 :À­*\x09¯ÌÍÙ\x0e\x10\x0f\x83ÎêkI\x8c\x1bQg}Ô\x0d1xí\x0b,A.&\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00\x1b\x00\x03\x02\x00\x02\x00\x0d\x00\x14\x00\x12\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x02\x01ÿ\x01\x00\x01\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:127.0.0.1 - - [11/Aug/2023 14:13:33] code 400, message Bad request version ('ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93')
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2023 14:13:33] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x15\x06cÐô×{é\x8b´¿øðÊ9¥ðîÏ÷\x10ÆaÝ\x1aÍ¨Ãy\x18½ü \x85®uÄÜ÷¤Á\x81É\x9d¨Nâ1\x97å/\x1b{\x9b\\#³&#\x87'UØ[~\x00 ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:127.0.0.1 - - [11/Aug/2023 14:13:33] code 400, message Bad request version ('ì\xad')
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2023 14:13:33] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x91qpÇ[9\x00\x02\x07|Z3*uô\x15\x15Ñ\x9c\x88f U\x83\x1c\x89@XKúwM RÂªúÝÎü\x09ì­[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:127.0.0.1 - - [11/Aug/2023 14:13:33] code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03lt£\x9f¼EâIÛ\x8b}\x83')
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2023 14:13:33] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03lt£\x9f¼EâIÛ\x8b}\x83[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:127.0.0.1 - - [11/Aug/2023 14:13:33] code 400, message Bad request version ('\x00\x02\x01\x00Di\x00\x05\x00\x03\x02h2\x00#\x00\x00\x00-\x00\x02\x01\x01\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00+\x00\x07\x06\x8a\x8a\x03\x04\x03\x03\x00')
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2023 14:13:33] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ø\x84Ø\x1dZ\x8dÇ\x11\x1fDÂ\x7fjDòä\x10È´QÃ*ÔÄÿ+Þ«ê)5¸ \x0fcð®\x8aJ\x00üUêB\x16Ñ\x89S\x8f«\x14/×²BJ\\û9\x1c\x99y)-ë\x00 êê\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93zz\x00\x00\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x0b\x00\x02\x01\x00Di\x00\x05\x00\x03\x02h2\x00#\x00\x00\x00-\x00\x02\x01\x01\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00+\x00\x07\x06\x8a\x8a\x03\x04\x03\x03\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:127.0.0.1 - - [11/Aug/2023 14:13:33] code 400, message Bad request version ('1£ËÜ0D\x92è\x03F{|0Ð^\x07^\x98')
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2023 14:13:33] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x80¦ý\x11.\x8dò+IlßwkÍú\x062ï¢\x0c@õ\x00\x1dð\x16}=Çß\x0bê 1£ËÜ0D\x92è\x03F{|0Ð^\x07^\x98[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:127.0.0.1 - - [11/Aug/2023 14:13:33] code 400, message Bad request version ('\x00\x02\x01\x00\x00\x17\x00\x00\x00+\x00\x07\x06ªª\x03\x04\x03\x03\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x12\x00\x00\x00#\x00\x00Di\x00\x05\x00\x03\x02h2\x00\x1b\x00\x03\x02\x00\x02\x00')
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2023 14:13:33] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03J± \x954\x96\x8c\x07Û_§g~^qiÕT\x8dj\x00±\x18l¾Ý(\x09í]H\x0b DrÓíü#ÿÃåÇLTXS\x1a\x95Æ\x8aoì\x08\x1c7QXLÖ¾\x85äHD\x00 zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ÚÚ\x00\x00\x003\x00+\x00)\x8a\x8a\x00\x01\x00\x00\x1d\x00 U#è¦M\x11Â\x08Ï·\x84\x1eò\x93ç\x80;\x04w\x8fÈölâ0\x81e\x1bW`\x19~ÿ\x01\x00\x01\x00\x00\x0d\x00\x14\x00\x12\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x02\x01\x00-\x00\x02\x01\x01\x00\x0b\x00\x02\x01\x00\x00\x17\x00\x00\x00+\x00\x07\x06ªª\x03\x04\x03\x03\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x12\x00\x00\x00#\x00\x00Di\x00\x05\x00\x03\x02h2\x00\x1b\x00\x03\x02\x00\x02\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:127.0.0.1 - - [11/Aug/2023 14:18:47] code 400, message Bad request version ('o¥\x00§¿\x06\x14\x0f\x00')
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2023 14:18:47] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x0cE\x03\x1aªL\x16%\x83õ\x12$\x1a\x92\\=È6\x0d\x07ï;- þZ{¦öÒ~Ï N\x10ÃÔä×ë\x1b\x7f!8Ueü%O}\x1d&F\x96ü8\x9c »Ê­\x0e¹ë\x97\x00 \x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93JJ\x00\x00\x00+\x00\x07\x06jj\x03\x04\x03\x03\x00\x05\x00\x05\x01\x00\x00\x00\x00Di\x00\x05\x00\x03\x02h2\x00\x12\x00\x00\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01ÿ\x01\x00\x01\x00\x00\x17\x00\x00\x00#\x00\x00\x003\x00+\x00)**\x00\x01\x00\x00\x1d\x00 Ç¿s`oÖ"Ìøð\x12Ö¤hÐÌu¢ä\x95ä\x9b\x06\x09o¥\x00§¿\x06\x14\x0f\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:127.0.0.1 - - [11/Aug/2023 14:18:47] code 400, message Bad request version ('{\x19\x12{Doí}òçÞ¿\x96\x00')
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2023 14:18:47] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03¸|¹(+{â\x1eM{\x89\x18a\x09:\\A¼\x85<XóCü\x02|S\x80\x92®ß\x07 \x9bs\x15\x95\x80Ë\x1f0 ,{á"@Û~ñs\x1f{\x19\x12{Doí}òçÞ¿\x96\x00 [0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:127.0.0.1 - - [11/Aug/2023 14:18:47] code 400, message Bad request version ('ðmøÏëºÖ(AOJ\x86èÙ@]H\x00')
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2023 14:18:47] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03"^"òûv¶\x8e\x12\x1eT¥Þ\x9dº{¤3\x15ô=\x1a\x90ä\x02óß:.RÚ\x1d ªàÇ¢\x1aT×7\x9aLì\x8fÿõÈI^ ågQ¤TûP\x09\x8e\x04;Ü¨@\x00 ::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ÚÚ\x00\x00\x00\x0b\x00\x02\x01\x00\x003\x00+\x00)::\x00\x01\x00\x00\x1d\x00 0ÁT±\x98\x02Ð²Û\x17¥X\x870\x85ðmøÏëºÖ(AOJ\x86èÙ@]H\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:127.0.0.1 - - [11/Aug/2023 14:18:47] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03¯)Îç\x9f2½S\x9föa*A5\x92qè~À;ûdú\x15?\x81)òK^Oü')
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2023 14:18:47] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03¯)Îç\x9f2½S\x9föa*A5\x92qè~À;ûdú\x15?\x81)òK^Oü G´àÔÆ\x1a)D\x04úLt\x93×ï°[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2023 14:32:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2023 14:32:29] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2023 14:32:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2023 14:35:49] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2023 14:36:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2023 14:36:21] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2023 14:36:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2023 14:36:37] "POST /review HTTP/1.1" 200 -
